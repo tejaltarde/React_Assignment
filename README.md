@@ -22,7 +22,6 @@ This project is a **React-based table component** that features:
 
 ### **🔧 Prerequisites**  
 Ensure you have **Node.js** and **npm** installed:  
-```sh
 node -v
 npm -v
 
@@ -33,7 +32,7 @@ cd react-table-component
 📦 Install Dependencies
 npm install
 
-🚀 Run the Project 
+🚀 Run the Project using npm start
 Then, open http://localhost:3000 in your browser.
 
 🛠️ Technologies Used
@@ -42,5 +41,5 @@ React-Select (for dropdowns)
 CSS
 
 🎯 Bonus Feature: Row Removal
-🆕 Users can remove individual rows using a delete button (❌).
+🆕 Users can remove individual rows using a Action button (❌).
 
