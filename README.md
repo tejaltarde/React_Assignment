@@ -22,6 +22,7 @@ This project is a **React-based table component** that features:
 
 ### **🔧 Prerequisites**  
 Ensure you have **Node.js** and **npm** installed:  
+```sh
 node -v
 npm -v
 
