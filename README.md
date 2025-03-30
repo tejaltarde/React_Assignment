@@ -10,9 +10,11 @@ This project is a **React-based table component** that features:
 ✅ **Dropdown Selections:**  
 - The first column allows single selection from tech-related options.  
 - The Model Type column supports multiple selections, allowing users to choose from predefined options such as Alpha, Beta, Gamma and add new custom model types as needed.
+  
 ✅ **Dynamic Table Management:**  
 - Add new rows dynamically.  
-- Remove rows using the "❌" action button (Bonus Feature).  
+- Remove rows using the "❌" action button (Bonus Feature).
+   
 ✅ **State Persistence:**  
 - Table data is **stored in local storage**, so it remains available even after refreshing the page.  
 
